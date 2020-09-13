@@ -6,3 +6,9 @@ body {background-color: lightslategray;}
     height: 100px;
     object-fit: scale-down;
   }
+
+  
+  img  {
+    max-width: 100%;
+    height: auto;
+  }
