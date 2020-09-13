@@ -1,0 +1,8 @@
+body {background-color: lightslategray;}
+
+
+.Headshot3 {
+    width: 100px;
+    height: 100px;
+    object-fit: scale-down;
+  }
