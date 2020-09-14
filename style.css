@@ -22,16 +22,16 @@ body {background-color: lightslategray;}
     max-height: 100px;
   } */
 
-  img {
+  /* img {
     image-rendering: auto;
     image-rendering: crisp-edges;
     image-rendering: pixelated;
-  }
+  } */
   
   img {
     image-rendering: pixelated;
   }
-  
+
   #page-container {
   position: relative;
   min-height: 100vh;
