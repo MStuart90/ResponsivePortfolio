@@ -28,8 +28,14 @@ body {background-color: lightslategray;}
     image-rendering: pixelated;
   } */
   
-  img {
+  /* img {
     image-rendering: pixelated;
+  } */
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
   }
 
   #page-container {
