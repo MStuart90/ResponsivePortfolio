@@ -1,10 +1,10 @@
 body {background-color: lightslategray;}
 
 
-.Headshot3 {
+.NewestHeadshotportfolio2 {
     width: 100px;
     height: 100px;
-    object-fit: scale-down;
+    
   }
   h1 {
     text-decoration: underline;
@@ -15,11 +15,23 @@ body {background-color: lightslategray;}
     font-weight: 900;
     
   }
-  img  {
-    max-width: 100%;
+  /* img{
+    width: auto;
+    max-width: 150px;
     height: auto;
-  }
+    max-height: 100px;
+  } */
 
+  img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  }
+  
+  img {
+    image-rendering: pixelated;
+  }
+  
   #page-container {
   position: relative;
   min-height: 100vh;
