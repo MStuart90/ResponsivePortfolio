@@ -7,9 +7,7 @@ Step one was to use the Bootstrap CSS Framework to create a mobile responsive po
 
 This project is a functional, deployed application. It has a GitHub repository with a README describing the project. The navbar is consistent on each page. The navbar contains links to Home/About, contact, and a portfolio page. All links work and I use semantic HTML throughout the assignment.
 
- I used a validation service from https://validator.w3.org/ and checked all three linked pages for any issue. Any issues that did come up were addressed promptly. 
- 
- Bootstrap components and grid system was properly utilized and the project included personal information including a bio, name, image, and links to my social media. 
+  Bootstrap components and grid system was properly utilized and the project included personal information including a bio, name, image, and links to my social media. 
 
 
 
